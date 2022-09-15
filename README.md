@@ -1,7 +1,7 @@
 # repository.topg
  
 Download the zip direcly: 
-https://mrgsi.github.io/repository.gsports-1.0.0.zip
+https://mrgsi.github.io/repository.topg-1.0.0.zip
 
 Or enter URL into your Kodi File Manager:
 https://mrgsi.github.io/topg
