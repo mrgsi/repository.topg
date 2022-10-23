@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
-<addon id="repository.topg" name="[COLOR khaki]Top-G Repository[/COLOR]" version="1.0.1" provider-name="G-Man">
+<addon id="repository.topg" name="[COLOR khaki]Top-G Repository[/COLOR]" version="1.0.2" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="Top-G Repository">
     <dir>
         <info compressed="false">https://github.com/mrgsi/repository.topg/raw/master/addons.xml</info>
@@ -77,6 +77,11 @@
         <checksum>https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml.crc</checksum>
         <datadir>https://github.com/newt-sc/a4kSubtitles/archive</datadir>
     </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/denimnani/zips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/denimnani/zips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/denimnani/zips/master/</datadir>
+	</dir>
 </extension>
 <extension point="xbmc.addon.metadata">
     <platform>all</platform>
