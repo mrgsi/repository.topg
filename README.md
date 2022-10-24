@@ -1,7 +1,7 @@
 # repository.topg
  
 Download the zip direcly: 
-https://mrgsi.github.io/repository.topg-1.0.1.zip
+https://mrgsi.github.io/repository.topg-1.0.3.zip
 
 Or enter URL into your Kodi File Manager:
 https://mrgsi.github.io/topg
